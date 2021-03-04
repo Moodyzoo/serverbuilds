@@ -17,7 +17,7 @@ Dit zijn de onderdelen die je nodig hebt om een server te laten werken:
 - Sata kabel is ook wel handig
 - Koelpasta kan wel handig zijn als je cpu wat koeler wil hebben
 
-## - [Klik hier voor de bouw ideeën](https://moodyzoo.github.io/serverbuilds/builds)
+## [Klik hier voor de bouw ideeën](https://moodyzoo.github.io/serverbuilds/builds)
 
 ### Andere links naar dingen in deze repo
 
