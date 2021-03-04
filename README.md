@@ -31,7 +31,7 @@ Een minecraft server kan maximaal op 1 hele core werken, dat komt omdat de softw
 | Moederbord |[Gigabyte A520](https://www.megekko.nl/product/4286/1756228/AMD-Socket-AM4-Moederborden/Gigabyte-A520-AORUS-ELITE-moederbord)|    €90,- |
 | RAM Geheugen |[HyperX Fury 2x32GB](https://www.amazon.nl/HyperX-Fury-geheugen-3200-64GB-2x32GB/dp/B083Q7Y7ST/) |    €299,- |
 | SSD Opslag |[Samsung 970 EVO 2TB M.2](https://www.megekko.nl/product/5093/247715/SSD-M-2/Samsung-970-EVO-Plus-2TB-M-2-SSD)|    €295,- |
-| HDD Opslag |Geen|    - |
-| Koeler |Geen (Zit bij CPU)|    - |
+| HDD Opslag |Geen, ik heb nog 10 hdd's liggen|    - |
+| Koeler |Geen (Zit bij CPU, wraith prism for the win)|    - |
 | Voeding |[Cooler Master 550 Watt](https://www.megekko.nl/product/4186/267277/PC-Voedingen-PSU-/Cooler-Master-MWE-550-White-V2-PSU-PC-voeding)|    $46,- |
 |       | **Totaal:**           | €985,-  |
