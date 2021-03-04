@@ -17,6 +17,12 @@ Dit zijn de onderdelen die je nodig hebt om een server te laten werken:
 - Sata kabel is ook wel handig
 - Koelpasta kan wel handig zijn als je cpu wat koeler wil hebben
 
+## Links
+
+- [Handige losse (niet echt los) onderdelen](https://github.com/Moodyzoo/serverbuilds/blob/d1dc8f1df6b239037bc82b82dc45bfef919ba51e/Losse%20Onderdelen.md)
+- [Netwerk voorzieningen](https://github.com/Moodyzoo/serverbuilds/blob/d1dc8f1df6b239037bc82b82dc45bfef919ba51e/Losse%20Onderdelen.md)
+- [Stroom voorzieningen](https://github.com/Moodyzoo/serverbuilds/blob/e29b5df10989448a5ede14d27aa5f10e88cceabb/stroom.md)
+
 ## Builds
 
 
