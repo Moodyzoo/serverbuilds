@@ -6,4 +6,4 @@ Een server heeft ook onderdelen nodig die (bijna) altijd hetzelfde zijn voor ied
 
 | Onderdeel | Link | Prijs |
 | --- | --- | --- |
-| Hey | o | epic | 
+| beeldscherm | [link](https://tinyurl.com/rickroll23232) | epic | 
