@@ -12,8 +12,10 @@ Dit zijn de onderdelen die je nodig hebt om een server te laten werken:
 - RAM Geheugen
 - Opslag / HDD / SSD
 - Koeler (Zit vaak bij de CPU)
+- Koel voor de case is ook handig voor de flow
 - Voeding
 - Sata kabel is ook wel handig
+- Koelpasta kan wel handig zijn als je cpu wat koeler wil hebben
 
 ## Builds
 
