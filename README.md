@@ -16,7 +16,7 @@ Dit zijn de onderdelen die je nodig hebt om een server te laten werken:
 - Sata kabel is ook wel handig
 
 ## Builds
----
+
 
 ### Gaming server (Voor Minecraft bijv.)
 
